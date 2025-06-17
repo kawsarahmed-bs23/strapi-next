@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ipas",
+  "info": {
+    "singularName": "ipa",
+    "pluralName": "ipas",
+    "displayName": "IPA"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
